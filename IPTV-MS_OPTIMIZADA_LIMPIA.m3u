@@ -1,284 +1,219 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E Latin America South (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Culture;Documentary;Entertainment;General;Movies;Music",Alterna TV (720p) [Not 24/7]
-https://tv.alterna.ar/stream/hls/live.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America (1280p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="General",America TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinísima Satelital (540p)
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="AtccoCanal2.ar@SD" tvg-logo="https://i.imgur.com/RdwpYUT.png" group-title="General",Atcco Canal 2
-https://ola1.com.ar/atccohd/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVArgentina.ar@SD" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="News",ATV Argentina
-https://tv.streaming.com.bo/atvargentina/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America South (2160p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar@SD" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Music",Azahares Radio Multimedia (720p)
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BayresTV.ar@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="General",Bayres TV (720p)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BeatsRadio.ar@SD" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Music",Beats Radio (480p)
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-id="BravoTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="General",Bravo TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
-#EXTINF:-1 tvg-id="C5N.ar@SD" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
-#EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Undefined",Cable Imagen Armstrong (540p) [Not 24/7]
-https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1 tvg-id="Cadena103TV.ar@SD" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="Undefined",Cadena 103 (720p) [Not 24/7]
-http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2deUshuaia.ar@SD" tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="General",Canal 2 de Ushuaia (1080p)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 tvg-id="Canal2Misiones.ar@SD" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Undefined",Canal 2 Misiones (1080p)
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 tvg-id="Canal3LaPampa.ar@SD" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Undefined",Canal 3 La Pampa (1080p)
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal3LasHeras.ar@SD" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Undefined",Canal 3 Las Heras (720p)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Undefined",Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Undefined",Canal 4 Posadas (576p)
-https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Undefined",Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="General",Canal 5 Del Pueblo [Not 24/7]
-https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5SantaFe.ar@SD" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="Undefined",Canal 5 Santa Fe (240p)
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5TVChepes.ar@SD" tvg-logo="https://i.imgur.com/AzEqroq.png" group-title="General",Canal 5 TV Chepes
-https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-#EXTINF:-1 tvg-id="Canal6Posadas.ar@SD" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="Undefined",Canal 6 Posadas (1080p)
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Jujuy.ar@SD" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 Jujuy
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Neuquen.ar@SD" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="General",Canal 7 Neuquén (1080p)
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Salta.ar@SD" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Undefined",Canal 7 Salta (1080p)
-https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1 tvg-id="Canal7TV.ar@SD" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Undefined",Canal 7 Santiago del Estero (720p)
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Litoral.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Undefined",Canal 9 Litoral (720p)
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (720p)
-http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar@SD" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Undefined",Canal 9 Televida
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar@SD" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Undefined",Canal 10 Cordoba
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal11delaCosta.ar@SD" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Undefined",Canal 11 de la Costa (720p)
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-#EXTINF:-1 tvg-id="Canal12Web.ar@SD" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="Undefined",Canal 12 Puerto Madryn (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religious",Canal 13 Jujuy TV (720p)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Undefined",Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal13SanLuis.ar@SD" tvg-logo="https://i.imgur.com/NcfMC29.png" group-title="Undefined",Canal 13 San Luis
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
-#EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Undefined",Canal 21 TV (1080p)
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal22.ar@SD" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="Undefined",Canal 22 (720p)
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p)
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="Canal34SanJuan.ar@SD" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="General",Canal 34 San Juan (720p)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal79LaCosta.ar@SD" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Undefined",Canal 79 La Costa (240p)
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-#EXTINF:-1 tvg-id="Canal79MardelPlata.ar@SD" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Mar del Plata
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-#EXTINF:-1 tvg-id="Canal79Puan.ar@SD" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="Undefined",Canal 79 Puan (240p)
-https://streamconex.com:19360/puan/puan.m3u8
-#EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar@SD" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 Santa Clara del Mar (240p)
-https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
-#EXTINF:-1 tvg-id="CanalE.ar@SD" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Business;News",Canal E (720p)
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalOrbe21.ar@SD" tvg-logo="https://i.imgur.com/USD6Wn8.png" group-title="Religious",Canal Orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalProvincial.ar@SD" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="General",Canal Provincial (360p)
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalPulpoTV.ar@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entertainment",Canal Pulpo TV
-https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-#EXTINF:-1 tvg-id="CanalRural.ar@SD" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Outdoor",Canal Rural (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Religious",Canal Santa María (360p)
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Culture;News",Catamarca TV (720p)
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="CeltaTV.ar@SD" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Undefined",Celta TV (240p)
-https://vivo.solumedia.com:19360/celta/celta.m3u8
-#EXTINF:-1 tvg-id="ChacoTV.ar@SD" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Undefined",Chaco TV (720p) [Not 24/7]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChilecitoTV.ar@SD" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="Undefined",Chilecito TV (480p)
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",Cine.Ar (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Movies",Cinecanal South (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central Latin America (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="News",Cronica TV (1280p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
-#EXTINF:-1 tvg-id="CumbiaMix.ar@HD" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Music",Cumbia Mix (720p)
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-id="DanceTV.ar@SD" tvg-logo="https://i.imgur.com/UKMR625.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Music",Dance TV [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
-#EXTINF:-1 tvg-id="DirecTVSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (1080p)
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
-#EXTINF:-1 tvg-id="ELatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Entertainment;News",E! Latin America (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
-#EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="Cooking",El Gourmet South (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="General",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Hispanic America (720p)
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" http-referrer="https://foxsports.com.ar/" group-title="Sports",Fox Sports (1080p)
-#EXTVLCOPT:http-referrer=https://foxsports.com.ar/
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entertainment",FX Latin America South (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-78_720.m3u8
-#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History Latin America South (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar@SD" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
-#EXTINF:-1 tvg-id="KpopMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Undefined",Kpop Mix (720p)
-https://cloud.tvomix.com/KPOPMIX/index.m3u8
-#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nacion + (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
-#EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="General",Litus TV (720p)
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MagicKids.ar@SD" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="MasFM.ar@SD" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Music",Más FM 95.9 (720p)
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-id="Metro.ar@SD" tvg-logo="https://i.imgur.com/D4nRp62.png" group-title="Undefined",Metro (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m3u8
-#EXTINF:-1 tvg-id="MetroTV.ar@SD" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Entertainment",Metro TV (720p)
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:-1 tvg-id="MisionesCuatro.ar@SD" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Misiones Cuatro
-https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV Latin America
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8
-#EXTINF:-1 tvg-id="MultivisionFederal.ar@SD" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="News",Multivision Federal
-https://panel.host-live.com:19360/8250/8250.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar@SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Music",MusicTop (1080p)
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic Latin America South (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-46_720.m3u8
-#EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",NET TV (720p)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal (720p)
-http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
-#EXTINF:-1 tvg-id="PancTV.ar@SD" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="General",Panc TV (720p) [Not 24/7]
-https://panel.host-live.com:19360/20004/20004.m3u8
-#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar@SD" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="Entertainment",Power Max Radio TV (720p)
-https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Music",Quiero Musica en mi Idioma (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
-#EXTINF:-1 tvg-id="RadioConexionWebTV.ar@SD" tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Music",Radio Conexion Web TV (720p)
-https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
-#EXTINF:-1 tvg-id="RadioRealpolitik.ar@SD" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="Music",Radio Realpolitik (720p)
-https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-#EXTINF:-1 tvg-id="RadioSublimeGraciaTV.ar@SD" tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png" group-title="Religious",Radio Sublime Gracia TV (720p)
-https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTVNeuquen.ar@SD" tvg-logo="https://i.imgur.com/HXBLozl.png" group-title="Undefined",Radio TV Neuquén (720p) [Not 24/7]
-https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="Entertainment",Radio Yguazú TV (480p)
-https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1 tvg-id="Radiocanal.ar@SD" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="General",Radiocanal San Francisco (1080p)
-http://204.199.3.2/.m3u8
-#EXTINF:-1 tvg-id="RTN.ar@SD" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Undefined",RTN (Neuquén) (720p) [Not 24/7]
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="SanPedroTV.ar@SD" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="Undefined",San Pedro TV (1080p) [Not 24/7]
-https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SicardiTV.ar@SD" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV (720p)
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Latin America South (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Undefined",Studio Universal Latin America South (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m3u8
-#EXTINF:-1 tvg-id="Telecinco.ar@SD" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Undefined",TeleCinco Trelew (240p)
-https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
-#EXTINF:-1 tvg-id="TelefeRosario.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png" group-title="Undefined",Telefe Rosario [Geo-blocked]
-https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Undefined",Telefe Santa Fe (1080p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8
-#EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Undefined",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="General",Telemundo Internacional (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
-#EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Undefined",Telenord Corrientes (1080p) [Not 24/7]
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN (2160p)
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-#EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="Religious",TV Maná Argentina (576p) [Not 24/7]
-https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar@SD" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Publica (720p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
-#EXTINF:-1 tvg-id="TVSolidaria.ar@SD" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="Undefined",TV Solidaria (576p)
-https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="TVUniversidad.ar@SD" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Education",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (1080p) [Geo-blocked]
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-#EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religious",Unife TV
-https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Uniteve.ar@SD" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve (720p) [Not 24/7]
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Undefined",Universal TV Latin America South (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-75_480.m3u8
-#EXTINF:-1 tvg-id="UrbanMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="Undefined",Urban Mix (720p)
-https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:-1 tvg-id="VTV.ar@SD" tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="Undefined",VerTV (VTV) (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 tvg-id="ViajarTV.ar@SD" tvg-logo="https://i.imgur.com/LxB7ZIu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",Viajar TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=X90osqQhWPS
-#EXTINF:-1 tvg-id="Volver.ar@SD" tvg-logo="https://i.imgur.com/PYvSZMb.png" group-title="Undefined",Volver (480p)
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="Movies",Xtrema Accion
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" http-referrer="https://xtrematv.com/?p=1390" group-title="Animation;Kids",Xtrema Cartoons
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCineClasico.ar@SD" tvg-logo="https://i.imgur.com/j91M4Yf.png" http-referrer="https://xtrematv.com/?p=1460" group-title="Classic;Movies",Xtrema Cine Clasico
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
-https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar@SD" tvg-logo="https://i.imgur.com/FcaTUym.png" http-referrer="https://xtrematv.com/?p=1456" group-title="Movies",Xtrema Terror
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+{
+  "tv": [
+    {"nombre": "A24", "logo": "https://pelisjuanita.com/tv/logos/a24.png", "url": "https://pelisjuanita.com/tv/a24"},
+    {"nombre": "La Nación+", "logo": "https://i.ytimg.com/vi/GZEwdVV5DTY/maxresdefault.jpg", "url": "https://famelack.com/tv/ar/zMB5rraDUsaO0a"},
+    {"nombre": "Aire Santa Fe", "logo": "https://pelisjuanita.com/tv/logos/aire-santa-fe.png", "url": "https://pelisjuanita.com/tv/aire-santa-fe"},
+    {"nombre": "America Tv", "logo": "https://pelisjuanita.com/tv/logos/america.png", "url": "https://pelisjuanita.com/tv/america"},
+    {"nombre": "Argentinisima", "logo": "https://pelisjuanita.com/tv/logos/argentinisima.png", "url": "https://pelisjuanita.com/tv/argentinisima"},
+    {"nombre": "Bravo Tv", "logo": "https://pelisjuanita.com/tv/logos/bravo-tv.png", "url": "https://pelisjuanita.com/tv/bravo-tv"},
+    {"nombre": "C5N", "logo": "https://pelisjuanita.com/tv/logos/c5n.png", "url": "https://pelisjuanita.com/tv/c5n"},
+    {"nombre": "Canal 10 Mar Del PLata", "logo": "https://pelisjuanita.com/tv/logos/canal-10-mar-del-plata.png", "url": "https://pelisjuanita.com/tv/canal-10-mar-del-plata"},
+    {"nombre": "Canal 26", "logo": "https://pelisjuanita.com/tv/logos/canal-26.png", "url": "https://pelisjuanita.com/tv/canal-26"},
+    {"nombre": "Canal Á", "logo": "https://pelisjuanita.com/tv/logos/canal-a.png", "url": "https://pelisjuanita.com/tv/canal-a"},
+    {"nombre": "Canal De La Ciudad", "logo": "https://pelisjuanita.com/tv/logos/canal-de-la-ciudad.png", "url": "https://pelisjuanita.com/tv/canal-de-la-ciudad"},
+    {"nombre": "El Doce", "logo": "https://pelisjuanita.com/tv/logos/canal-doce.png", "url": "https://pelisjuanita.com/tv/canal-doce"},
+    {"nombre": "Canal Luz", "logo": "https://pelisjuanita.com/tv/logos/canal-luz.png", "url": "https://pelisjuanita.com/tv/canal-luz"},
+    {"nombre": "El Nueve", "logo": "https://pelisjuanita.com/tv/logos/canal-nueve.png", "url": "https://pelisjuanita.com/tv/canal-nueve"},
+    {"nombre": "Canal Rural", "logo": "https://pelisjuanita.com/tv/logos/canal-rural.png", "url": "https://pelisjuanita.com/tv/canal-rural"},
+    {"nombre": "Chacra Tv", "logo": "https://pelisjuanita.com/tv/logos/chacra-tv.png", "url": "https://pelisjuanita.com/tv/chacra-tv"},
+    {"nombre": "Cine AR", "logo": "https://pelisjuanita.com/tv/logos/cine-ar.png", "url": "https://pelisjuanita.com/tv/cine-ar"},
+    {"nombre": "Cinecanal", "logo": "https://pelisjuanita.com/tv/logos/cinecanal.png", "url": "https://pelisjuanita.com/tv/cinecanal"},
+    {"nombre": "Ciudad Magazine", "logo": "https://pelisjuanita.com/tv/logos/ciudad-magazine.png", "url": "https://pelisjuanita.com/tv/ciudad-magazine"},
+    {"nombre": "Cronica", "logo": "https://pelisjuanita.com/tv/logos/cronica.png", "url": "https://pelisjuanita.com/tv/cronica"},
+    {"nombre": "Diputados Tv", "logo": "https://pelisjuanita.com/tv/logos/diputados-tv.png", "url": "https://pelisjuanita.com/tv/diputados-tv"},
+    {"nombre": "El Gourmet", "logo": "https://pelisjuanita.com/tv/logos/el-gourmet.png", "url": "https://pelisjuanita.com/tv/el-gourmet"},
+    {"nombre": "El Trece", "logo": "https://pelisjuanita.com/tv/logos/el-trece.png", "url": "https://famelack.com/tv/ar/WqrxuaH4hV825l"},
+    {"nombre": "El Tres", "logo": "https://pelisjuanita.com/tv/logos/el-tres.png", "url": "https://pelisjuanita.com/tv/el-tres"},
+    {"nombre": "Encuentro", "logo": "https://pelisjuanita.com/tv/logos/encuentro.png", "url": "https://pelisjuanita.com/tv/encuentro"},
+    {"nombre": "Europa Europa", "logo": "https://pelisjuanita.com/tv/logos/europa-europa.png", "url": "https://pelisjuanita.com/tv/europa-europa"},
+    {"nombre": "Film Arts", "logo": "https://pelisjuanita.com/tv/logos/film-arts.png", "url": "https://pelisjuanita.com/tv/film-arts"},
+    {"nombre": "Garage Tv", "logo": "https://pelisjuanita.com/tv/logos/garage-tv.png", "url": "https://pelisjuanita.com/tv/garage-tv"},
+    {"nombre": "IP Noticias", "logo": "https://pelisjuanita.com/tv/logos/ip-noticias.png", "url": "https://pelisjuanita.com/tv/ip-noticias"},
+    {"nombre": "LN+", "logo": "https://pelisjuanita.com/tv/logos/ln.png", "url": "https://pelisjuanita.com/tv/ln"},
+    {"nombre": "Metro", "logo": "https://pelisjuanita.com/tv/logos/metro.png", "url": "https://pelisjuanita.com/tv/metro"},
+    {"nombre": "NETTV", "logo": "https://pelisjuanita.com/tv/logos/nettv.png", "url": "https://pelisjuanita.com/tv/nettv"},
+    {"nombre": "Orbe 21", "logo": "https://pelisjuanita.com/tv/logos/orbe-21.png", "url": "https://pelisjuanita.com/tv/orbe-21"},
+    {"nombre": "Space", "logo": "https://pelisjuanita.com/tv/logos/space.png", "url": "https://pelisjuanita.com/tv/space"},
+    {"nombre": "Star Channel", "logo": "https://pelisjuanita.com/tv/logos/star-channel.png", "url": "https://pelisjuanita.com/tv/star-channel"},
+    {"nombre": "Telefe", "logo": "https://pelisjuanita.com/tv/logos/telefe.png", "url": "https://pelisjuanita.com/tv/telefe"},
+    {"nombre": "Telefe Rosario", "logo": "https://pelisjuanita.com/tv/logos/telefe-rosario.png", "url": "https://pelisjuanita.com/tv/telefe-rosario"},
+    {"nombre": "Telemax", "logo": "https://pelisjuanita.com/tv/logos/telemax.png", "url": "https://pelisjuanita.com/tv/telemax"},
+    {"nombre": "TN", "logo": "https://pelisjuanita.com/tv/logos/tn.png", "url": "https://pelisjuanita.com/tv/tn"},
+    {"nombre": "TV PÚBLICA", "logo": "https://pelisjuanita.com/tv/logos/tv-publica.png", "url": "https://pelisjuanita.com/tv/tv-publica"},
+    {"nombre": "Unife", "logo": "https://pelisjuanita.com/tv/logos/unife.png", "url": "https://pelisjuanita.com/tv/unife"},
+    {"nombre": "VOLVER", "logo": "https://pelisjuanita.com/tv/logos/volver.png", "url": "https://pelisjuanita.com/tv/volver"},
+    {"nombre": "Eurochannel", "logo": "https://pelisjuanita.com/tv/logos/eurochannel.png", "url": "https://pelisjuanita.com/tv/eurochannel"},
+    {"nombre": "TV Chile", "logo": "https://pelisjuanita.com/tv/logos/tv-chile.png", "url": "https://pelisjuanita.com/tv/tv-chile"},
+    {"nombre": "Caracol TV", "logo": "https://pelisjuanita.com/tv/logos/caracol-tv.png", "url": "https://pelisjuanita.com/tv/caracol-tv"},
+    {"nombre": "A3Cine", "logo": "https://pelisjuanita.com/tv/logos/a3cine.png", "url": "https://pelisjuanita.com/tv/a3cine"},
+    {"nombre": "A3Series", "logo": "https://pelisjuanita.com/tv/logos/a3series.png", "url": "https://pelisjuanita.com/tv/a3series"},
+    {"nombre": "Antena 3", "logo": "https://pelisjuanita.com/tv/logos/antena-3.png", "url": "https://pelisjuanita.com/tv/antena-3"},
+    {"nombre": "DW", "logo": "https://pelisjuanita.com/tv/logos/dw.png", "url": "https://pelisjuanita.com/tv/dw"},
+    {"nombre": "A&E", "logo": "https://pelisjuanita.com/tv/logos/a-e.png", "url": "https://pelisjuanita.com/tv/a-e"},
+    {"nombre": "AMC", "logo": "https://pelisjuanita.com/tv/logos/amc.png", "url": "https://pelisjuanita.com/tv/amc"},
+    {"nombre": "AMC Series", "logo": "https://pelisjuanita.com/tv/logos/amc-series.png", "url": "https://pelisjuanita.com/tv/amc-series"},
+    {"nombre": "Animal Planet", "logo": "https://pelisjuanita.com/tv/logos/animal-planet.png", "url": "https://pelisjuanita.com/tv/animal-planet"},
+    {"nombre": "AXN", "logo": "https://pelisjuanita.com/tv/logos/axn.png", "url": "https://pelisjuanita.com/tv/axn"},
+    {"nombre": "Cinemax", "logo": "https://pelisjuanita.com/tv/logos/cinemax.png", "url": "https://pelisjuanita.com/tv/cinemax"},
+    {"nombre": "Discovery Channel", "logo": "https://pelisjuanita.com/tv/logos/discovery-channel.png", "url": "https://pelisjuanita.com/tv/discovery-channel"},
+    {"nombre": "Discovery H&H", "logo": "https://pelisjuanita.com/tv/logos/discovery-h-h.png", "url": "https://pelisjuanita.com/tv/discovery-h-h"},
+    {"nombre": "Discovery ID", "logo": "https://pelisjuanita.com/tv/logos/discovery-id.png", "url": "https://pelisjuanita.com/tv/discovery-id"},
+    {"nombre": "Discovery Science", "logo": "https://pelisjuanita.com/tv/logos/discovery-science.png", "url": "https://pelisjuanita.com/tv/discovery-science"},
+    {"nombre": "Discovery Theater", "logo": "https://pelisjuanita.com/tv/logos/discovery-theater.png", "url": "https://pelisjuanita.com/tv/discovery-theater"},
+    {"nombre": "Discovery TLC", "logo": "https://pelisjuanita.com/tv/logos/discovery-tlc.png", "url": "https://pelisjuanita.com/tv/discovery-tlc"},
+    {"nombre": "Discovery Turbo", "logo": "https://pelisjuanita.com/tv/logos/discovery-turbo.png", "url": "https://pelisjuanita.com/tv/discovery-turbo"},
+    {"nombre": "Discovery World", "logo": "https://pelisjuanita.com/tv/logos/discovery-world.png", "url": "https://pelisjuanita.com/tv/discovery-world"},
+    {"nombre": "E Entertaiment", "logo": "https://pelisjuanita.com/tv/logos/e-entertaiment.png", "url": "https://pelisjuanita.com/tv/e-entertaiment"},
+    {"nombre": "EWTN", "logo": "https://pelisjuanita.com/tv/logos/ewtn.png", "url": "https://pelisjuanita.com/tv/ewtn"},
+    {"nombre": "FXHD", "logo": "https://pelisjuanita.com/tv/logos/fxhd.png", "url": "https://pelisjuanita.com/tv/fxhd"},
+    {"nombre": "HBO", "logo": "https://pelisjuanita.com/tv/logos/hbo.png", "url": "https://pelisjuanita.com/tv/hbo"},
+    {"nombre": "HBO 2", "logo": "https://pelisjuanita.com/tv/logos/hbo-2.png", "url": "https://pelisjuanita.com/tv/hbo-2"},
+    {"nombre": "HBO Family", "logo": "https://pelisjuanita.com/tv/logos/hbo-family.png", "url": "https://pelisjuanita.com/tv/hbo-family"},
+    {"nombre": "BO Mundi", "logo": "https://pelisjuanita.com/tv/logos/hbo-mundi.png", "url": "https://pelisjuanita.com/tv/hbo-mundi"},
+    {"nombre": "HBO Plus", "logo": "https://pelisjuanita.com/tv/logos/hbo-plus.png", "url": "https://pelisjuanita.com/tv/hbo-plus"},
+    {"nombre": "HBO POP", "logo": "https://pelisjuanita.com/tv/logos/hbo-pop.png", "url": "https://pelisjuanita.com/tv/hbo-pop"},
+    {"nombre": "HBO Signature", "logo": "https://pelisjuanita.com/tv/logos/hbo-signature.png", "url": "https://pelisjuanita.com/tv/hbo-signature"},
+    {"nombre": "HBO Xtreme", "logo": "https://pelisjuanita.com/tv/logos/hbo-xtreme.png", "url": "https://pelisjuanita.com/tv/hbo-xtreme"},
+    {"nombre": "History", "logo": "https://pelisjuanita.com/tv/logos/history.png", "url": "https://pelisjuanita.com/tv/history"},
+    {"nombre": "History 2", "logo": "https://pelisjuanita.com/tv/logos/history-2.png", "url": "https://pelisjuanita.com/tv/history-2"},
+    {"nombre": "Lifetime", "logo": "https://pelisjuanita.com/tv/logos/lifetime.png", "url": "https://pelisjuanita.com/tv/lifetime"},
+    {"nombre": "National Geographic", "logo": "https://pelisjuanita.com/tv/logos/national-geographic.png", "url": "https://pelisjuanita.com/tv/national-geographic"},
+    {"nombre": "Sony Channel", "logo": "https://pelisjuanita.com/tv/logos/sony-channel.png", "url": "https://pelisjuanita.com/tv/sony-channel"},
+    {"nombre": "Studio Universal", "logo": "https://pelisjuanita.com/tv/logos/studio-universal.png", "url": "https://pelisjuanita.com/tv/studio-universal"},
+    {"nombre": "TCM", "logo": "https://pelisjuanita.com/tv/logos/tcm.png", "url": "https://pelisjuanita.com/tv/tcm"},
+    {"nombre": "TNT HD", "logo": "https://pelisjuanita.com/tv/logos/tnt-hd.png", "url": "https://pelisjuanita.com/tv/tnt-hd"},
+    {"nombre": "TNT Novelas", "logo": "https://pelisjuanita.com/tv/logos/tnt-novelas.png", "url": "https://pelisjuanita.com/tv/tnt-novelas"},
+    {"nombre": "TNT Series", "logo": "https://pelisjuanita.com/tv/logos/tnt-series.png", "url": "https://pelisjuanita.com/tv/tnt-series"},
+    {"nombre": "Universal Cinema", "logo": "https://pelisjuanita.com/tv/logos/universal-cinema.png", "url": "https://pelisjuanita.com/tv/universal-cinema"},
+    {"nombre": "Universal Comedy", "logo": "https://pelisjuanita.com/tv/logos/universal-comedy.png", "url": "https://pelisjuanita.com/tv/universal-comedy"},
+    {"nombre": "Universal Crime", "logo": "https://pelisjuanita.com/tv/logos/universal-crime.png", "url": "https://pelisjuanita.com/tv/universal-crime"},
+    {"nombre": "Universal Premiere", "logo": "https://pelisjuanita.com/tv/logos/universal-premiere.png", "url": "https://pelisjuanita.com/tv/universal-premiere"},
+    {"nombre": "Universal Reality", "logo": "https://pelisjuanita.com/tv/logos/universal-reality.png", "url": "https://pelisjuanita.com/tv/universal-reality"},
+    {"nombre": "Universal TV", "logo": "https://pelisjuanita.com/tv/logos/universal-tv.png", "url": "https://pelisjuanita.com/tv/universal-tv"},
+    {"nombre": "USA NETWORK", "logo": "https://pelisjuanita.com/tv/logos/usa-network.png", "url": "https://pelisjuanita.com/tv/usa-network"},
+    {"nombre": "Warner", "logo": "https://pelisjuanita.com/tv/logos/warner.png", "url": "https://pelisjuanita.com/tv/warner"},
+    {"nombre": "Canal Provincial", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-zNDbAdyWuDfyDG0TokD5eJ1Rpy2UGVbDw&s", "url": "https://famelack.com/tv/ar/Rexjgi9hzCbRd0"},
+    {"nombre": "Canal 34 San Juan", "logo": "https://www.teleonline.tv/wp-content/uploads/2024/07/canal-34-hd-san-juan-800x450.jpg", "url": "https://famelack.com/tv/ar/86PvatcoSM3bXa"},
+    {"nombre": "France 24 Español", "logo": "https://pelisjuanita.com/tv/logos/france-24-espanol.png", "url": "https://pelisjuanita.com/tv/france-24-espanol"},
+    {"nombre": "TV5 MONDE", "logo": "https://pelisjuanita.com/tv/logos/tv5-monde.png", "url": "https://pelisjuanita.com/tv/tv5-monde"},
+    {"nombre": "GOLDEN", "logo": "https://pelisjuanita.com/tv/logos/golden.png", "url": "https://pelisjuanita.com/tv/golden"},
+    {"nombre": "Chaco Tv", "logo": "https://www.datachaco.com/content/bucket/1/102901w620h450.jpg", "url": "https://famelack.com/tv/ar/YK4jerPW8Ia03w"},
+    {"nombre": "Canal 13 San Luis", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLTNP-RciEBSqwA_zs43xw7WifOazwuTRXg&s", "url": "https://famelack.com/tv/ar/aoSHf7umzvQAal"},
+    {"nombre": "Las Estrellas", "logo": "https://pelisjuanita.com/tv/logos/las-estrellas.png", "url": "https://pelisjuanita.com/tv/las-estrellas"},
+    {"nombre": "Telemundo", "logo": "https://pelisjuanita.com/tv/logos/telemundo.png", "url": "https://pelisjuanita.com/tv/telemundo"},
+    {"nombre": "TeleSur", "logo": "https://pelisjuanita.com/tv/logos/telesur.png", "url": "https://pelisjuanita.com/tv/telesur"},
+    {"nombre": "Canal 10 Cordoba", "logo": "https://static.wikia.nocookie.net/doblaje/images/0/03/Canal_10_C%C3%B3rdoba_actual_del_2025_.webp/revision/latest?cb=20251004230919&path-prefix=es", "url": "https://famelack.com/tv/ar/vZ56OvN6qo2jGQ"},
+    {"nombre": "Canal 7 Santiago Del Estero", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqtSR5F4cTkNrCvLwq9RG9ldvasEh5tV9fyw&s", "url": "https://famelack.com/tv/ar/nNW00C0yiqPydr"},
+    {"nombre": "Canal 7 Salta", "logo": "https://i.ytimg.com/vi/kTSQD--0ZZg/hqdefault.jpg", "url": "https://famelack.com/tv/ar/WYgIM57T6cgvaF"},
+    {"nombre": "Canal 7 Neuquén", "logo": "https://alphamedia.com.ar/images/alpha/contenidos/medios/C7_25.jpg", "url": "https://famelack.com/tv/ar/UFI1aabxRmg31y"},
+    {"nombre": "Canal 7 Jujuy", "logo": "https://yt3.googleusercontent.com/ytc/AIdro_l_ZC_dWMMdsSFdYvD6f0u4QKOWi6ca8oLV6y1IjMZiVA=s900-c-k-c0x00ffffff-no-rj", "url": "https://famelack.com/tv/ar/1Lh8QNqMEer0yM"},
+    {"nombre": "Canal 6 Posadas", "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png", "url": "https://famelack.com/tv/ar/RjGzeK99LgjrbF"},
+    {"nombre": "Canal 5 Santa Fe", "logo": "https://play-lh.googleusercontent.com/R5CWCQc-bgtRO4YCLH0UEsfqeFSgoYhRoZm-lF-GRE_n5tZvvAqIymFPHfelJNS5yQ", "url": "https://famelack.com/tv/ar/Qltnj6pxW46J3l"},
+    {"nombre": "ATCCO canal 2", "logo": "https://static.wixstatic.com/media/19e034_5e72446b8ef94e919b0b7d13ec8495e0~mv2.png", "url": "https://famelack.com/tv/ar/4UYhangJgL9ixy"},
+    {"nombre": "Bayres Tv", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYokif8I17vrPHLeXRjWYRWIW74CAq-T-9BA&s", "url": "https://famelack.com/tv/ar/o15OiPkM4jxoZp"},
+    {"nombre": "Canal 4 San Juan", "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nPKw0CdqlkmLfPJmF04SNcYQVKyHSfiAzbazlu6lDSBg=s900-c-k-c0x00ffffff-no-rj", "url": "https://famelack.com/tv/ar/j1Mx0NYk5KtzPX"},
+    {"nombre": "Canal 11 De La Costa", "logo": "https://static.wikia.nocookie.net/logopedia/images/7/76/Canal11-2010.png", "url": "https://famelack.com/tv/ar/pGg9E7GpQgpIle"},
+    {"nombre": "Canal 4 Posadas", "logo": "https://yt3.googleusercontent.com/vji1NUb08pDU3hQo-izXmJie8yOWmBxmontb0sLBMxbFJyA5lInJH3gX1D3jYhshqY2SyJABzQ=s900-c-k-c0x00ffffff-no-rj", "url": "https://famelack.com/tv/ar/D3rtXC7Gev4etZ"},
+    {"nombre": "Canal 3 La Pampa", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-blNKZiAgQ6wkAtjnG_GQPl-xJsUFLlBP7w&s", "url": "https://famelack.com/tv/ar/MH4oTx0ElnuqXt"},
+    {"nombre": "Canal 2 Misiones", "logo": "https://yt3.googleusercontent.com/JeqwFtrWVXOXE4cxLND1Ulnhk64c5Ow33B7q5iigVv-pYDmlBjS3al0CRtVsAC1jFplX2EO5aQ=s900-c-k-c0x00ffffff-no-rj", "url": "https://famelack.com/tv/ar/dP9dVYSF14RSuM"},
+    {"nombre": "Casados con hijos", "logo": "https://image.tmdb.org/t/p/w300//dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg", "url": "https://m.youtube.com/watch?v=Ypr2n3ClUuA&list=PLFdVX1QGmSXSvrzlmehru26wS8H4RQgmf&index=1&autoplay=1"},
+    {"nombre": "Caso Cerrado 24/7", "logo": "https://i.scdn.co/image/ab6765630000ba8a590f6fb0eedc9957c30270dd", "url": "https://m.youtube.com/watch?v=CG7UYN5OrQA"}
+  ],
+  "futbol": [
+    {"nombre": "Agenda Deportiva", "logo": "https://clinquant-manatee-ccf4f9.netlify.app//img/FUTBOL/agenda.png", "url": "https://pelisjuanita.com/tv/agenda-deportiva"},
+    {"nombre": "Boca Vs River 19/4 ops1", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"},
+    {"nombre": "Boca Vs River 19/4 ops2", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM="},
+    {"nombre": "Boca Vs River 19/4 ops3", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuM214"},
+    {"nombre": "Boca Vs River 19/4 ops4", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly9zdHJlYW14NTUwLmNvbS9nbG9iYWwyLnBocD9jaGFubmVsPWRpc25leTE="},
+    {"nombre": "Boca Vs River 19/4 ops5", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"},
+    {"nombre": "Boca Vs River 19/4 ops6", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"},
+    {"nombre": "Boca Vs River 19/4 ops7", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="},
+    {"nombre": "Boca Vs River 19/4 ops8", "logo": "https://www.ole.com.ar/images/2026/04/16/bOA171bTv_1290x760__2.jpg", "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="},
+    {"nombre": "America Sports", "logo": "https://pelisjuanita.com/tv/logos/america-sports.png", "url": "https://pelisjuanita.com/tv/america-sports"},
+    {"nombre": "DeporTV", "logo": "https://pelisjuanita.com/tv/logos/deportv.png", "url": "https://pelisjuanita.com/tv/deportv"},
+    {"nombre": "DSport+", "logo": "https://pelisjuanita.com/tv/logos/directv-plus.png", "url": "https://pelisjuanita.com/tv/directv-plus"},
+    {"nombre": "DSports", "logo": "https://pelisjuanita.com/tv/logos/directv-sports.png", "url": "https://pelisjuanita.com/tv/directv-sports"},
+    {"nombre": "DSports 2", "logo": "https://pelisjuanita.com/tv/logos/directv-sports-2.png", "url": "https://pelisjuanita.com/tv/directv-sports-2"},
+    {"nombre": "ESPN", "logo": "https://pelisjuanita.com/tv/logos/espn.png", "url": "https://pelisjuanita.com/tv/espn"},
+    {"nombre": "ESPN 2", "logo": "https://pelisjuanita.com/tv/logos/espn-2.png", "url": "https://pelisjuanita.com/tv/espn-2"},
+    {"nombre": "ESPN 3", "logo": "https://pelisjuanita.com/tv/logos/espn-3.png", "url": "https://pelisjuanita.com/tv/espn-3"},
+    {"nombre": "ESPN 4", "logo": "https://pelisjuanita.com/tv/logos/espn-4.png", "url": "https://pelisjuanita.com/tv/espn-4"},
+    {"nombre": "ESPN 5", "logo": "https://pelisjuanita.com/tv/logos/espn-5.png", "url": "https://pelisjuanita.com/tv/espn-5"},
+    {"nombre": "ESPN 6", "logo": "https://pelisjuanita.com/tv/logos/espn-6.png", "url": "https://pelisjuanita.com/tv/espn-6"},
+    {"nombre": "ESPN 7", "logo": "https://pelisjuanita.com/tv/logos/espn-7.png", "url": "https://pelisjuanita.com/tv/espn-7"},
+    {"nombre": "ESPN Deportes", "logo": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", "url": "https://pelisjuanita.com/tv/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM="},
+    {"nombre": "ESPN Premium", "logo": "https://pelisjuanita.com/tv/logos/espn-premium.png", "url": "https://pelisjuanita.com/tv/espn-premium"},
+    {"nombre": "Disney+ ESPN", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYBVWCEVn4i4OB4KkmPwTwV6XVi2k6ZrBDw&s", "url": "https://pelisjuanita.com/tv/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"},
+    {"nombre": "FOX SPORTS", "logo": "https://pelisjuanita.com/tv/logos/fox-sports.png", "url": "https://pelisjuanita.com/tv/fox-sports"},
+    {"nombre": "FOX SPORTS 2", "logo": "https://pelisjuanita.com/tv/logos/fox-sports-2.png", "url": "https://pelisjuanita.com/tv/fox-sports-2"},
+    {"nombre": "FOX SPORTS 3", "logo": "https://pelisjuanita.com/tv/logos/fox-sports-3.png", "url": "https://pelisjuanita.com/tv/fox-sports-3"},
+    {"nombre": "TNT Sports", "logo": "https://pelisjuanita.com/tv/logos/tnt-sports.png", "url": "https://pelisjuanita.com/tv/tnt-sports"},
+    {"nombre": "TNT Sports Premium", "logo": "https://television.com.ar/wp-content/uploads/2025/04/BeFunky-design-1.jpg", "url": "https://pelisjuanita.com/tv/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM="},
+    {"nombre": "TyC Sports", "logo": "https://pelisjuanita.com/tv/logos/tyc-sports.png", "url": "https://pelisjuanita.com/tv/tyc-sports"},
+    {"nombre": "TyC Sports Internacional", "logo": "https://pelisjuanita.com/tv/logos/tyc-sports-internacional.png", "url": "https://pelisjuanita.com/tv/tyc-sports-internacional"},
+    {"nombre": "LALIGA TV HYPERMOTION", "logo": "https://cdn.sincroguia.tv/uploads/programs/l/a/l/laliga-tv-hypermotion-2-poster-1067872_SPA-51_V.jpg", "url": "https://pelisjuanita.com/tv/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1oeXBlcm1vdGlvbjE="},
+    {"nombre": "Formula 1", "logo": "https://pelisjuanita.com/tv/logos/formula-1.png", "url": "https://pelisjuanita.com/tv/formula-1"},
+    {"nombre": "Win Sports", "logo": "https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj", "url": "https://pelisjuanita.com/tv/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz"},
+    {"nombre": "NBA TV", "logo": "https://pelisjuanita.com/tv/logos/nba-tv.png", "url": "https://pelisjuanita.com/tv/nba-tv"}
+  ],
+  "infantiles": [
+    {"nombre": "Baby Tv", "logo": "https://pelisjuanita.com/tv/logos/baby-tv.png", "url": "https://pelisjuanita.com/tv/baby-tv"},
+    {"nombre": "PAKA PAKA", "logo": "https://pelisjuanita.com/tv/logos/paka-paka.png", "url": "https://pelisjuanita.com/tv/paka-paka"},
+    {"nombre": "Cartoon Network", "logo": "https://pelisjuanita.com/tv/logos/cartoon-network.png", "url": "https://pelisjuanita.com/tv/cartoon-network"},
+    {"nombre": "Cartoonito", "logo": "https://pelisjuanita.com/tv/logos/cartoonito.png", "url": "https://pelisjuanita.com/tv/cartoonito"},
+    {"nombre": "Comedy Central", "logo": "https://pelisjuanita.com/tv/logos/comedy-central.png", "url": "https://pelisjuanita.com/tv/comedy-central"},
+    {"nombre": "Discovery Kids", "logo": "https://pelisjuanita.com/tv/logos/discovery-kids.png", "url": "https://pelisjuanita.com/tv/discovery-kids"},
+    {"nombre": "Disney Channel", "logo": "https://pelisjuanita.com/tv/logos/disney-channel.png", "url": "https://pelisjuanita.com/tv/disney-channel"},
+    {"nombre": "Disney JR", "logo": "https://pelisjuanita.com/tv/logos/disney-jr.png", "url": "https://pelisjuanita.com/tv/disney-jr"},
+    {"nombre": "Dreamworks", "logo": "https://pelisjuanita.com/tv/logos/dreamworks.png", "url": "https://pelisjuanita.com/tv/dreamworks"},
+    {"nombre": "NICK", "logo": "https://pelisjuanita.com/tv/logos/nick.png", "url": "https://pelisjuanita.com/tv/nick"},
+    {"nombre": "NICK JR", "logo": "https://pelisjuanita.com/tv/logos/nick-jr.png", "url": "https://pelisjuanita.com/tv/nick-jr"},
+    {"nombre": "Peppa Pig", "logo": "https://m.media-amazon.com/images/M/MV5BYmZjZWQ0OTktODdlYy00ZjA1LWJlNzYtNmYwMDc4YzQzZmQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url": "https://5900.tv/peppa-pig-en-espanol/"},
+    {"nombre": "Los Simpsons", "logo": "https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "url": "https://www.dailymotion.com/embed/playlist/xbxvhc?autoplay=1&ui-logo=0&ui-start-screen-info=0&endscreen-enable=0"},
+    {"nombre": "Futurama", "logo": "https://image.tmdb.org/t/p/w300/tiPTf3JY4x6aM2cYM1s4esWCiH1.jpg", "url": "https://www.dailymotion.com/embed/playlist/xbxfww?autoplay=1&ui-logo=0&ui-start-screen-info=0&endscreen-enable=0"},
+    {"nombre": "Dragon Ball Z", "logo": "https://image.tmdb.org/t/p/w300/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg", "url": "https://www.dailymotion.com/embed/playlist/xbxvzs?autoplay=1&ui-logo=0&ui-start-screen-info=0&endscreen-enable=0"},
+    {"nombre": "Los Padrinos Magicos", "logo": "https://image.tmdb.org/t/p/w300/dEMhp3WLscZj7bGTKnJIEMLdk2Y.jpg", "url": "https://m.youtube.com/watch?v=DeHyNyLFfDE&list=PLVTSdMSdDUHJJW-NSBhMmwpU-d9excugB&index=1&autoplay=1"},
+    {"nombre": "Escandalosos", "logo": "https://image.tmdb.org/t/p/w300/urANgPY1gyATjqGux96rM0zZU9z.jpg", "url": "https://m.youtube.com/watch?v=EW_CURP6gBo&list=PLFcuznSxi8VpZ6GvnvBXWzq4r-fpebL5T&index=1&autoplay=1"},
+    {"nombre": "Steven Universe", "logo": "https://image.tmdb.org/t/p/w300/kJGyHGTvhKlUIgJ14tbr5op6cS1.jpg", "url": "https://m.youtube.com/watch?v=0SqoMYaELTk&autoplay=1"},
+    {"nombre": "Un show más", "logo": "https://image.tmdb.org/t/p/w300//6xea7V4d2xayrlBKOtMZ4wlV6wZ.jpg", "url": "https://m.youtube.com/watch?v=__LutPwHFR4&list=PLctu_t5fR-ZRGX11CB69sRizaW_jhMNb8&index=1&autoplay=1"},
+    {"nombre": "Los Jóvenes Titanes en acción", "logo": "https://image.tmdb.org/t/p/w300//dFRzEMjRuAF778RnYg6VsMMlKwx.jpg", "url": "https://m.youtube.com/watch?v=1stpq3_DpWk&autoplay=1"},
+    {"nombre": "El increíble mundo de Gumball 24/7", "logo": "https://image.tmdb.org/t/p/w300/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg", "url": "https://m.youtube.com/watch?v=L22VH7lQaqE"},
+    {"nombre": "Jake Long: el dragón occidental", "logo": "https://image.tmdb.org/t/p/w300/dFiwPC2Q1gWLDecMCEm1FHkdzmd.jpg", "url": "https://m.youtube.com/watch?v=JAg1XgKEG8U&list=PLYdoMVmq0aUUxX1AK1e_-74s8qvPrQAve&index=1&autoplay=1"},
+    {"nombre": "O11CE", "logo": "https://image.tmdb.org/t/p/w300//zbVwpFNma4RV7HkIVT3aOUmGUJf.jpg", "url": "https://m.youtube.com/watch?v=W2z1f739dOU&list=PLsPFHLf1PfBESX3sLCpAoURwQv-LRp6yb&index=1&autoplay=1"},
+    {"nombre": "Las sombrías aventuras de Billy y Mandy", "logo": "https://image.tmdb.org/t/p/w300/dctpxTH60v3HWb18Aol5x9HccYv.jpg", "url": "https://m.youtube.com/watch?v=al9w-ExQfLc&autoplay=1"},
+    {"nombre": "Gravity Falls", "logo": "https://image.tmdb.org/t/p/w300/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg", "url": "https://m.youtube.com/watch?v=CHZkUzF48LA&list=PLaX8nV8ylmtk8sdEn4BsnNkPkxkN6vG1h&index=1&autoplay=1"},
+    {"nombre": "Kick Buttowski: Medio Doble de Riesgo", "logo": "https://image.tmdb.org/t/p/w300/xhPpCLky3gmLlAjAs8gf15h6Bxg.jpg", "url": "https://m.youtube.com/watch?v=ltoLBcen45I&list=PL7A1uf3BiFUsHh-CDGrLF5K9MbPKKWG4R&index=1&autoplay=1"},
+    {"nombre": "Star vs las fuerzas del mal", "logo": "https://image.tmdb.org/t/p/w300/drnY78Uwi4nYw4jOEp067WRl4Lt.jpg", "url": "https://m.youtube.com/watch?v=34OhLCe3grY&list=PL-F4N5qBcqShYtRAXqEluekFLHZp0cg7S&index=1&autoplay=1"},
+    {"nombre": "Bajoterra 24/7", "logo": "https://image.tmdb.org/t/p/w300/hbAHSGKr0aJStev8w5ebWWZboh1.jpg", "url": "https://m.youtube.com/watch?v=HJwbv1nCEJs"},
+    {"nombre": "Recreo", "logo": "https://image.tmdb.org/t/p/w300//uUDP58pE7VW3PeUVGNRbdXxpJfz.jpg", "url": "https://m.youtube.com/watch?v=uajG6chP8ws&list=PLm0LSXWTkVNnbpGhl6it63G6x8Ik8dRJ-&index=1&autoplay=1"},
+    {"nombre": "Thomas y sus amigos", "logo": "https://static.wikia.nocookie.net/doblaje/images/a/a8/ThomasySusAmigos.jpg/revision/latest?cb=20200716205211&path-prefix=es", "url": "https://m.youtube.com/watch?v=sa1Xbns3qHw&list=PLnXcp_Ylwkt6eHGz5btixh4ViDL2u4-b_&index=1&autoplay=1"},
+    {"nombre": "Los Backyardigans", "logo": "https://static.wikia.nocookie.net/doblaje/images/9/96/Backyardigans.jpg/revision/latest?cb=20200811213908&path-prefix=es", "url": "https://m.youtube.com/watch?v=5U1Sigb-bus&list=PLjXyTw1_uY7NKDZdfdmHQNqLfKvVccru4&index=1&autoplay=1"},
+    {"nombre": "El chavo del 8 24/7", "logo": "https://image.tmdb.org/t/p/w300/d2xJ6xmrchmnVL0S9gsbiGHskxp.jpg", "url": "https://m.youtube.com/watch?v=fy_fYd3ZwPE"},
+    {"nombre": "Kid vs. Kat 24/7", "logo": "https://image.tmdb.org/t/p/w300/1f3DyCY4Xe6ZxN2blj0gNdWhS71.jpg", "url": "https://m.youtube.com/watch?v=mWox9Uvv60c"},
+    {"nombre": "Tom y Jerry 24/7", "logo": "https://image.tmdb.org/t/p/w300/41EWXLXTZO4MLb2BL28mWZuydyq.jpg", "url": "https://m.youtube.com/watch?v=rEKifG2XUZg"},
+    {"nombre": "Jorge el curioso 24/7", "logo": "https://static.wikia.nocookie.net/discovery-kids/images/0/01/PosterJorgeCurioso.png/revision/latest?cb=20240509013649&path-prefix=es", "url": "https://m.youtube.com/watch?v=2XjuaZOm95E"}
+  ],
+  "musica": [
+    {"nombre": "CM", "logo": "https://pelisjuanita.com/tv/logos/cm.png", "url": "https://pelisjuanita.com/tv/cm"},
+    {"nombre": "80s", "logo": "https://yt3.googleusercontent.com/ZT-yzamre9lczjPL2PBgbglcmj-OMwGMLE6mbpQfn50ewaYdhmWBBp7kHFCMM1UyV2EKmUHhQG8=s900-c-k-c0x00ffffff-no-rj", "url": "https://m.youtube.com/watch?v=3wxyN3z9PL4&list=PLmXxqSJJq-yXrCPGIT2gn8b34JjOrl4Xf"},
+    {"nombre": "90s", "logo": "https://i.scdn.co/image/ab67616d0000b273d217af7d77d1c42da1d65a8b", "url": "https://m.youtube.com/watch?v=8SbUC-UaAxE&list=PLDE7DDED6558EC4CA"},
+    {"nombre": "2000s", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgb5avGemL7Tha5WIkeZfUH9ZD152XZ4ELXw&s", "url": "https://m.youtube.com/watch?v=nYnLVWXmRm8&list=PLm6zDcTBhQcEg3qLP-NCYGf73rOeS478g&index=1&autoplay=1"},
+    {"nombre": "Reggaeton Viejo", "logo": "https://i1.sndcdn.com/artworks-P0RTuyyzEw6ywbfR-IVwHVg-t500x500.jpg", "url": "https://m.youtube.com/watch?v=9nV5I8GeU4g&list=RD9nV5I8GeU4g"},
+    {"nombre": "Mix: Pop latino", "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/a9/f6/e9a9f6bc-36a1-c5a4-8e29-bb1e91087009/23UM1IM35178.rgb.jpg/600x600bf-60.jpg", "url": "https://m.youtube.com/watch?v=x6UODla2hqE&list=RDx6UODla2hqE"},
+    {"nombre": "Cumbia Santafesina", "logo": "https://yt3.googleusercontent.com/4xIKg7T-0Bml-UwoAyG9ttnZ1hJ-CttS7t9eEX7gMwSk9D-TgW4-qIYgDjTJLkZJxy71fUFaSg=s900-c-k-c0x00ffffff-no-rj", "url": "https://m.youtube.com/watch?v=zAnDAyOQxNI&list=RDzAnDAyOQxNI"},
+    {"nombre": "Cumbia Tropical", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6tEA_Czc0nqgw37cvFwQ4GNQmuq_eriD4Q&s", "url": "https://m.youtube.com/watch?v=X48mxG8N6CM&list=RDX48mxG8N6CM"},
+    {"nombre": "Cumbia Cheta 2015", "logo": "https://miro.medium.com/v2/1*eCw5Ew82dvoi7Qsi7ZzDIw.jpeg", "url": "https://m.youtube.com/watch?v=2pTOlKTzdpM&list=PLbwM-1dkSd-PWsHO1NngXXRiqqvQtyOI8"},
+    {"nombre": "Cumbia Villera", "logo": "https://cdn-images.dzcdn.net/images/cover/843029d935967a37a54443b76c73259a/0x1900-000000-80-0-0.jpg", "url": "https://m.youtube.com/watch?v=avZSEluRlIA&list=RDavZSEluRlIA"},
+    {"nombre": "Cuarteto Mix", "logo": "https://i1.sndcdn.com/artworks-jadtIS8WuZyOeyl5-yIWDlA-t500x500.jpg", "url": "https://m.youtube.com/watch?v=IyMlJRnkrYM&list=PLvdz2HFOFQEC5jNUw8K8l8S7uqsYffOSp&index=1&autoplay=1"},
+    {"nombre": "Chaqueño Palavecino", "logo": "https://i.scdn.co/image/ab67616d0000b273c4efe03764466c5f9864cb1b", "url": "https://m.youtube.com/watch?v=gXC6LJEItFc&list=RDgXC6LJEItFc"},
+    {"nombre": "Rock Nacional Argentino", "logo": "https://i.ytimg.com/vi/nSQ7HkJTHcU/maxresdefault.jpg", "url": "https://m.youtube.com/watch?v=UCF9oHXhDMU&list=RDUCF9oHXhDMU"},
+    {"nombre": "Cumbia Mix", "logo": "https://pelisjuanita.com/tv/logos/cumbia-mix.png", "url": "https://pelisjuanita.com/tv/cumbia-mix"},
+    {"nombre": "Música Top", "logo": "https://pelisjuanita.com/tv/logos/musica-top.png", "url": "https://pelisjuanita.com/tv/musica-top"},
+    {"nombre": "Quiero", "logo": "https://pelisjuanita.com/tv/logos/quiero.png", "url": "https://pelisjuanita.com/tv/quiero"},
+    {"nombre": "Vorterix", "logo": "https://pelisjuanita.com/tv/logos/vorterix.png", "url": "https://pelisjuanita.com/tv/vorterix"},
+    {"nombre": "Kpop Mix", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0vNtyfSDZwT0nds91Wbw6Y_i0lMe8hx0wA&s", "url": "https://famelack.com/tv/ar/ijWQA3s6NT8hZx"},
+    {"nombre": "HTV", "logo": "https://pelisjuanita.com/tv/logos/htv.png", "url": "https://pelisjuanita.com/tv/htv"},
+    {"nombre": "Salsa Gorda Tv", "logo": "https://yt3.googleusercontent.com/ytc/AIdro_niWepNyd9S2uh9XVbaq0j8xEiwp8peG6SLCno2siyQDaw=s900-c-k-c0x00ffffff-no-rj", "url": "https://5900.tv/salsa-gorda-tv/"},
+    {"nombre": "Quantica Tv", "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6fssnIxulKsuWbmLIoE5DD22FbPutul_tw&s", "url": "https://5900.tv/quantica-tv/"}
+  ]
+}
