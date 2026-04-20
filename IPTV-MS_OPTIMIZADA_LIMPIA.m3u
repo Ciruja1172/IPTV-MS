@@ -35,7 +35,7 @@
     {"nombre": "Orbe 21", "logo": "https://pelisjuanita.com/tv/logos/orbe-21.png", "url": "https://pelisjuanita.com/tv/orbe-21"},
     {"nombre": "Space", "logo": "https://pelisjuanita.com/tv/logos/space.png", "url": "https://pelisjuanita.com/tv/space"},
     {"nombre": "Star Channel", "logo": "https://pelisjuanita.com/tv/logos/star-channel.png", "url": "https://pelisjuanita.com/tv/star-channel"},
-    {"nombre": "Telefe", "logo": "https://pelisjuanita.com/tv/logos/telefe.png", "url": "https://pelisjuanita.com/tv/telefe"},
+    {"nombre": "Telefe", "logo": "https://pelisjuanita.com/tv/logos/telefe.png", "url": "https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1776652054~exp=1776659254~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=aad5b653e252f639ec33e33af7fc83dbd8d7869e9f93bd6fa1d20e0986f3f47d"},
     {"nombre": "Telefe Rosario", "logo": "https://pelisjuanita.com/tv/logos/telefe-rosario.png", "url": "https://pelisjuanita.com/tv/telefe-rosario"},
     {"nombre": "Telemax", "logo": "https://pelisjuanita.com/tv/logos/telemax.png", "url": "https://pelisjuanita.com/tv/telemax"},
     {"nombre": "TN", "logo": "https://pelisjuanita.com/tv/logos/tn.png", "url": "https://pelisjuanita.com/tv/tn"},
